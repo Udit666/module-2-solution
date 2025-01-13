@@ -5,7 +5,7 @@
     }
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px){
     .col-md-6, .col-md-12
     .col-md-6 {
         width: 49%;
@@ -31,15 +31,15 @@ body {
 }
 
 #chicken {
-    background-color: #7fffd4;
+    background-color:aquamarine;
 }
 
 #beef {
-    background-color: #b22222;
+    background-color:lightcoral;
 }
 
 #sushi {
-    background-color: #ff69b4;
+    background-color:lightpink;
 }
 
 .title {
@@ -51,14 +51,14 @@ body {
 
 .subtitle {
     float: right;
-    padding: 0%;
-    margin: 0%;
+    padding: 0px;
+    margin: 0px;
     border-left-width: 1px;
     border-bottom-width: 1px;
     border-top-width: 0px;
     border-right-width: 0px;
-    border-color: #000000;
-    font-weight: bold;
+    border-color: black;
+    font-weight:bold;
     border-style: solid;
     width: 40%;
     text-align: center;
@@ -66,21 +66,21 @@ body {
 }
 
 .menuDescription {
-    clear: right;
+    clear:right;
     margin-left: 5px;
     padding: 4%;
 }
 
 .menuObject {
-    float: left;
+    float:left;
     text-align: left;
-    background-color: #f0e68c;
+    background-color:lightsalmon;
     border-width: 1px;
     margin-bottom: 5px;
-    border-color: #000000;
+    border-color: black;
     border-style: solid;
     font-size: 1.25rem;
-    font-weight: bold;
+    font-weight:bold;
     height: 100%;
     margin-left: 1%;
 }
